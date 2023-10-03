@@ -1,13 +1,18 @@
 <h1 align="center">👋 I'm Vivek Kumar Shukla</h1>
 <h3 align="center">Frontend Developer & Competitive Programmer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkshukla9918&label=Profile%20views&color=0e75b6&style=flat" alt="vkshukla9918" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkshukla9918&label=Profile%20views&color=0e75b6&style=flat" alt="vkshukla9918" /> </
 
+- 👨‍💻 I’m a Final year student at **IIT Patna**
+- ⚡ My hobbies are **Travelling, Reading books, Painting, etc.**
 - 📫 How to reach me **vkshukla9918@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivek-kr-shukla-23a0711bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kr-shukla-23a0711bb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vkshukla9918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vkshukla9918" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vkshukla9918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vkshukla9918" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vkshukla9918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vkshukla9918" height="30" width="40" /></a>
+<a href="https://twitter.com/Vivek00770572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek00770572" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
