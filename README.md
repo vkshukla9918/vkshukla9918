@@ -2,7 +2,7 @@
 <h3 align="center">Developer & Competitive Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkshukla9918&label=Profile%20views&color=0e75b6&style=flat" alt="vkshukla9918" /> </
 
-- 👨‍💻 I’m a Final year student at **IIT Patna**
+- 👨‍💻 I’m a graduate of **IIT Patna**
 - ⚡ My hobbies are **Travelling, Reading books, Painting, etc.**
 - 📫 How to reach me **vkshukla9918@gmail.com**
 
