@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Vivek Kumar Shukla</h1>
-<h3 align="center">Frontend Developer & Competitive Programmer</h3>
+<h3 align="center">Developer & Competitive Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkshukla9918&label=Profile%20views&color=0e75b6&style=flat" alt="vkshukla9918" /> </
 
 - 👨‍💻 I’m a Final year student at **IIT Patna**
